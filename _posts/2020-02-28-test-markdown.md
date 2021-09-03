@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: vsCode 테스트
+subtitle: 이거하고 딴곳 가자 ㅠㅠ 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+이 안에는 많은 형식의 글 쓰는 법을 알려주는 듯 하다 
+여기서 포스트 작성 주소 위치와 소스트리와 vsCode를 이용하여 커밋 하는 법을 테스트 할 예정
 
 **Here is some bold text**
 
